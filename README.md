@@ -28,7 +28,7 @@ python run.py
 ```
 
 
-![Command line snapshot](snapshopt.png "Command line snapshot")
+![Snapshot](https://github.com/CESEL/BatchBuilderResearch/raw/master/snapshot.png "Command line snapshot")
 
 # Data
 
