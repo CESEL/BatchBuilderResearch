@@ -1,0 +1,9 @@
+django
+matplotlib
+psycopg2-binary
+requests
+sklearn
+seaborn
+scipy
+pandas
+bokeh
