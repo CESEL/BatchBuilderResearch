@@ -2,7 +2,7 @@
 
 This repository contains the replication package for this paper: 
 
-__Batching Builds and Modeling Change Risk during Testing on Travis Projects__
+__Software Batch Testing to Reduce Build TestExecutions__
 
 Mohammad Javad Beheshtian, Peter C. Rigby
 
