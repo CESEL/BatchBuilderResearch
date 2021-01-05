@@ -5,7 +5,7 @@ This folder contains the replication package for these two research questions
 ### Instalation
 
 1. You need to have docker installed on your computer.
-2. Download the In this folder
+2. Download the preoject
 3. In the terminal, go to this directory and run the command bellow
 
 ```
