@@ -1,4 +1,4 @@
-# Research Question 1 and Research Question 2
+# Research Question 4
 
 This folder contains the replication package for these two research questions
 
@@ -6,14 +6,14 @@ This folder contains the replication package for these two research questions
 
 1. You need to have docker installed on your computer.
 2. Download the preoject
-3. In the terminal, go to this directory and run the command bellow
+3. In the terminal, go to this directory (RQ3) and run the command bellow
 
 ```
   docker build .
 
 ```
 
-4. Copy the ID of the built conatainer like the following figure
+4. Copy the ID of the built conatainer similar to the following figure
    ![Image description](https://github.com/CESEL/BatchBuilderResearch/blob/master/RQ1%2C2/container_id.png)
 5. Run the following command
 
