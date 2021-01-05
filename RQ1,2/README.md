@@ -9,7 +9,7 @@ This folder contains the replication package for these two research questions
 3. In the terminal, go to this directory and run the command bellow
 
 ```
-@docker build .
+  docker build .
 
 ```
 
