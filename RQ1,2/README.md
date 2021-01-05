@@ -10,3 +10,7 @@ This folder contains the replication package for these two research questions
    docker build .
 4. then choose the ID above and run thhis command
    docker run -it <ID>
+
+### data
+
+Data for these two research questions can be found [here](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2/data)
