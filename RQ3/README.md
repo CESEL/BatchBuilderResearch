@@ -1,6 +1,6 @@
 # Research Question 3
 
-This folder contains the replication package for these two research questions
+This folder contains the replication package for research question 3
 
 ### Instalation and running
 
@@ -24,4 +24,4 @@ This folder contains the replication package for these two research questions
 
 ### data
 
-Data for these two research questions can be found [here](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3/data/extracted_project_travis)
+Data for research question 3 can be found [here](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3/data/extracted_project_travis)

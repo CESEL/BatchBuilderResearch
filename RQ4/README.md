@@ -1,6 +1,6 @@
 # Research Question 4
 
-This folder contains the replication package for these two research questions
+This folder contains the replication package for research question 4
 
 ### Instalation and running
 
@@ -24,4 +24,4 @@ This folder contains the replication package for these two research questions
 
 ### data
 
-Data for these two research questions can be found [here](hhttps://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4/data)
+Data for this research question can be found [here](hhttps://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4/data)
