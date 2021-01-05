@@ -1,11 +1,5 @@
-# Travis CI build batching
+# Research Question 1 and Research Question 2
 
-This repository contains the replication package for this paper:
+This folder contains the replication package for these two research questions
 
-**Software Batch Testing to Reduce Build TestExecutions**
-
-Mohammad Javad Beheshtian, Amir Hossein Bavand, and Peter C. Rigby
-
-<s_ehesht@encs.concordia.ca>, <a_bavand@encs.concordia.ca>, <peter.rigby@concordia.ca>
-
-### RQ 1. Batching: How well does simple bisection andbatching improve resource utilization?
+\*\*Instalation
