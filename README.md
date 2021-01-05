@@ -1,19 +1,18 @@
 # Travis CI build batching
 
-This repository contains the replication package for this paper: 
+This repository contains the replication package for this paper:
 
-__Software Batch Testing to Reduce Build TestExecutions__
+**Software Batch Testing to Reduce Build TestExecutions**
 
-Mohammad Javad Beheshtian, Peter C. Rigby
+Mohammad Javad Beheshtian, Amir Hossein Bavand, and Peter C. Rigby
 
-<s_ehesht@encs.concordia.ca>, <peter.rigby@concordia.ca>
+<s_ehesht@encs.concordia.ca>, <a_bavand@encs.concordia.ca>, <peter.rigby@concordia.ca>
 
 # Installation
 
 ## Requirements
 
-* Python 3.5+
-
+- Python 3.5+
 
 Install required modules using `pip`...
 
@@ -27,7 +26,6 @@ pip install -r requiremnts.txt
 python run.py
 ```
 
-
 ![Snapshot](https://github.com/CESEL/BatchBuilderResearch/raw/master/snapshot.png "Command line snapshot")
 
 # Data
@@ -35,12 +33,13 @@ python run.py
 There is no need to download any additional data as it is included in this repository.
 
 Build information are extracted from [TravisTorrent](https://travistorrent.testroots.org/) dataset for these projects:
-* ruby/ruby
-* rapid7/metasploit-framework
-* Graylog2/graylog2-server
-* owncloud/android
-* mitchellh/vagrant
-* gradle/gradle
-* puppetlabs/puppet
-* opal/opal
-* rspec/rspec-core
+
+- ruby/ruby
+- rapid7/metasploit-framework
+- Graylog2/graylog2-server
+- owncloud/android
+- mitchellh/vagrant
+- gradle/gradle
+- puppetlabs/puppet
+- opal/opal
+- rspec/rspec-core
