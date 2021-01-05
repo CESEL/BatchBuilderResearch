@@ -24,4 +24,4 @@ This folder contains the replication package for these two research questions
 
 ### data
 
-Data for these two research questions can be found [here](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2/data)
+Data for these two research questions can be found [here](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3/data/extracted_project_travis)
