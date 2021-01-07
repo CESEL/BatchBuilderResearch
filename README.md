@@ -1,33 +1,35 @@
-# Travis CI build batching
+# Replication Package 
 
-This repository contains the replication package for this paper:
-
-**Software Batch Testing to Reduce Build TestExecutions**
+"Software Batch Testing to Reduce Build Test Executions"  
 
 Mohammad Javad Beheshtian, Amir Hossein Bavand, and Peter C. Rigby
 
 <s_ehesht@encs.concordia.ca>, <a_bavand@encs.concordia.ca>, <peter.rigby@concordia.ca>
 
-### RQ 1. Batching: How well does simple bisection andbatching improve resource utilization?
+### RQ 1 and RQ 2
 
-[code and running instruction](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2)
+RQ 1. Batching: How well does simple bisection and batching improve resource utilization?
 
-[data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2/data)
+RQ2. Risk Models: Can commit risk models improvethe resource utilization during batching?
 
-### RQ2. Risk Models: Can commit risk models improvethe resource utilization during batching?
+In these research questions, we examine how many build test executions can be saved relative to testing each build individually. In RQ 1 we simple batching and bisection in RQ 2 we use risk based models to do predict builds that are likely to fail. 
 
-[code and running instruction](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2)
+1. [Code and Instructions](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2)
 
-[data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2/data)
+2. [Data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2/data)
 
-### RQ3 FailureRate: How does the failure rate effectresource utilization during batching?
+### RQ3 FailureRate: How does the failure rate effect resource utilization during batching?
 
-[code and running instruction](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3)
+On all projects with more than 1000 builds on Travis CI, we investigate the relationship between batching effiectiveness and potential to save build test executions.
 
-[data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3/data/extracted_project_travis)
+[Code and Instructions](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3)
 
-### RQ4 Feedback: What is the impact of batching onfeedback time?
+[Data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3/data/extracted_project_travis)
 
-[code and running instruction](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4)
+### RQ4 Feedback: What is the impact of batching on feedback time?
 
-[data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4/data)
+We examine the change in feedback time for the simple batching approaches relative to testing each commit individually.
+
+[Code and Instructions](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4)
+
+[Data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4/data)
