@@ -1,6 +1,6 @@
-# Replication Package 
+# Replication Package
 
-"Software Batch Testing to Reduce Build Test Executions"  
+"Software Batch Testing to Reduce Build Test Executions"
 
 Mohammad Javad Beheshtian, Amir Hossein Bavand, and Peter C. Rigby
 
@@ -12,7 +12,7 @@ RQ 1. Batching: How well does simple bisection and batching improve resource uti
 
 RQ2. Risk Models: Can commit risk models improvethe resource utilization during batching?
 
-In these research questions, we examine how many build test executions can be saved relative to testing each build individually. In RQ 1 we simple batching and bisection in RQ 2 we use risk based models to do predict builds that are likely to fail. 
+In these research questions, we examine how many build test executions can be saved relative to testing each build individually. In RQ 1 we simple batching and bisection in RQ 2 we use risk based models to do predict builds that are likely to fail.
 
 1. [Code and Instructions](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2)
 
