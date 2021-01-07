@@ -14,14 +14,14 @@ On all projects with more than 1000 builds on Travis CI, we investigate the rela
 ```
 
 4. Copy the ID of the built conatainer like the following figure
-   ![Image description](https://github.com/CESEL/BatchBuilderResearch/blob/master/RQ1%2C2/container_id.png)
+   ![Image description](https://github.com/CESEL/BatchBuilderResearch/blob/master/RQ3/container_id.png)
 5. Run the following command, with project ID
 
 <code> docker run -it \<ID\> </code>
 
 For example, from the figure above the ID is 
 
-<code> docker run -it 3f5987129fd3b27872fed0f71f1135f128dbb9ffd75bf </code>
+<code> docker run -it 15d69e2e35e676c235871d076648379ab75933a0de8d0f </code>
 
 
 
