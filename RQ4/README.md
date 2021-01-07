@@ -14,11 +14,11 @@ We examine the change in feedback time for the simple batching approaches relati
 ```
 
 4. Copy the ID of the built conatainer like the following figure
-   ![Image description](https://github.com/CESEL/BatchBuilderResearch/blob/master/RQ1%2C2/container_id.png)
+   ![Image description](https://github.com/CESEL/BatchBuilderResearch/blob/master/RQ4/container_id.png)
 5. Run the following command, with project ID
 
 <code> docker run -it \<ID\> </code>
 
 For example, from the figure above the ID is 
 
-<code> docker run -it 3f5987129fd3b27872fed0f71f1135f128dbb9ffd75bf </code>
+<code> docker run -it 0686b5d6a64564df6f71aae002d68dab49cae3d7ab9e7 </code>
