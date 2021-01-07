@@ -19,7 +19,7 @@ In these research questions, we examine how many build test executions can be sa
 
 <code> docker run -it <ID> </code>
 
-For example, from the figure above the ID is 0c7fb1e1f842ea8e46ae54edde2e5a310fede86f6280c
+For example, from the figure above the ID is 
 
 <code> docker run -it <Actual ID> </code>
 
