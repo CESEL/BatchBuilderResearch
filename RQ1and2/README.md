@@ -14,11 +14,11 @@ In these research questions, we examine how many build test executions can be sa
 ```
 
 4. Copy the ID of the built conatainer like the following figure
-   ![Image description](https://github.com/CESEL/BatchBuilderResearch/blob/master/RQ1%2C2/container_id.png)
+   ![Image description](https://github.com/CESEL/BatchBuilderResearch/blob/master/RQ1and2/container_id.png)
 5. Run the following command, with project ID
 
 <code> docker run -it \<ID\> </code>
 
-For example, from the figure above the ID is
+For example, from the figure above the ID is 57cba73745fd2f7ffa7e8f17dd20650162688c1ba579d
 
 <code> docker run -it 3f5987129fd3b27872fed0f71f1135f128dbb9ffd75bf </code>
