@@ -17,7 +17,7 @@ In these research questions, we examine how many build test executions can be sa
    ![Image description](https://github.com/CESEL/BatchBuilderResearch/blob/master/RQ1%2C2/container_id.png)
 5. Run the following command, with project ID
 
-<code> docker run -it <ID> </code>
+<code> docker run -it \<ID\> </code>
 
 For example, from the figure above the ID is 
 
