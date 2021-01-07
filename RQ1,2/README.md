@@ -23,6 +23,4 @@ For example, from the figure above the ID is
 
 <code> docker run -it <Actual ID> </code>
 
-### data
 
-Data for these two research questions can be found [here](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2/data)
