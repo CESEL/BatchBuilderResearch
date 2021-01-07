@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 # Replication Package
+=======
+The [BatchBuilder app](https://github.com/apps/batchbuilder) for developers is also available. The source code for the app is [here](https://github.com/CESEL/BatchBuilder)
+
+# Replication Package 
+>>>>>>> 16e7862d3ed9ee33bbdec864a69ff9bfdb6072e2
 
 "Software Batch Testing to Reduce Build Test Executions"
 
