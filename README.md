@@ -24,14 +24,14 @@ In these research questions, we examine how many build test executions can be sa
 
 On all projects with more than 1000 builds on Travis CI, we investigate the relationship between batching effiectiveness and potential to save build test executions.
 
-[Code and Instructions](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3)
+1. [Code and Instructions](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3)
 
-[Data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3/data/extracted_project_travis)
+2. [Data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3/data/extracted_project_travis)
 
 ### RQ4 Feedback: What is the impact of batching on feedback time?
 
 We examine the change in feedback time for the simple batching approaches relative to testing each commit individually.
 
-[Code and Instructions](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4)
+1. [Code and Instructions](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4)
 
-[Data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4/data)
+2. [Data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4/data)
