@@ -19,7 +19,7 @@ On all projects with more than 1000 builds on Travis CI, we investigate the rela
 
 <code> docker run -it \<ID\> </code>
 
-For example, from the figure above the ID is 
+For example, from the figure above the ID is 15d69e2e35e676c235871d076648379ab75933a0de8d0f
 
 <code> docker run -it 15d69e2e35e676c235871d076648379ab75933a0de8d0f </code>
 
