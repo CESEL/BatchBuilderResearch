@@ -8,7 +8,7 @@ In these research questions, we examine how many build test executions can be sa
 2. Clone this github repo, this includes both the code and the [data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2/data)
 3. In the terminal, go to this directory and run the commands below
 
-<code> docker build -t rq1and2 </code>
+<code> docker build -t rq1and2 .</code>
 
 In which "rq1and" is the name of the docker image
 

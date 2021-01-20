@@ -8,7 +8,7 @@ We examine the change in feedback time for the simple batching approaches relati
 2. Clone this github repo, this includes both the code and the [data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ4/data)
 3. In the terminal, go to this directory and run the commands below
 
-<code> docker build -t rq4 </code>
+<code> docker build -t rq4 .</code>
 
 In which "rq1and" is the name of the docker image
 
