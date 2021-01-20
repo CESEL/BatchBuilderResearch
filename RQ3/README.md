@@ -8,20 +8,10 @@ On all projects with more than 1000 builds on Travis CI, we investigate the rela
 2. Clone this github repo, this includes both the code and the [data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ3/data/extracted_project_travis)
 3. In the terminal, go to this directory and run the commands below
 
-```
-  docker build .
+<code> docker build -t rq3 </code>
 
-```
+In which "rq1and" is the name of the docker image
 
-4. Copy the ID of the built conatainer like the following figure
-   ![Image description](https://github.com/CESEL/BatchBuilderResearch/blob/master/RQ3/container_id.png)
-5. Run the following command, with project ID
+5. After completing the build process, run the following command, with project ID
 
-<code> docker run -it \<ID\> </code>
-
-For example, from the figure above the ID is 15d69e2e35e676c235871d076648379ab75933a0de8d0f
-
-<code> docker run -it 15d69e2e35e676c235871d076648379ab75933a0de8d0f </code>
-
-
-
+<code> docker run -it rq3 </code>

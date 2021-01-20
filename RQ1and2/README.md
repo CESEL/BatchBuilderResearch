@@ -10,7 +10,7 @@ In these research questions, we examine how many build test executions can be sa
 
 <code> docker build -t rq1and2 </code>
 
-In which "rq1and" is the name of the docker mage
+In which "rq1and" is the name of the docker image
 
 5. After completing the build process, run the following command, with project ID
 
