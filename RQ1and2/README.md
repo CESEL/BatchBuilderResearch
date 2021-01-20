@@ -8,17 +8,10 @@ In these research questions, we examine how many build test executions can be sa
 2. Clone this github repo, this includes both the code and the [data](https://github.com/CESEL/BatchBuilderResearch/tree/master/RQ1%2C2/data)
 3. In the terminal, go to this directory and run the commands below
 
-```
-  docker build .
+<code> docker build -t rq1and2 </code>
 
-```
+In which "rq1and" is the name of the docker mage
 
-4. Copy the ID of the built conatainer like the following figure
-   ![Image description](https://github.com/CESEL/BatchBuilderResearch/blob/master/RQ1and2/container_id.png)
-5. Run the following command, with project ID
+5. After completing the build process, run the following command, with project ID
 
-<code> docker run -it \<ID\> </code>
-
-For example, from the figure above the ID is 57cba73745fd2f7ffa7e8f17dd20650162688c1ba579d
-
-<code> docker run -it 3f5987129fd3b27872fed0f71f1135f128dbb9ffd75bf </code>
+<code> docker run -it rq1and2 </code>
